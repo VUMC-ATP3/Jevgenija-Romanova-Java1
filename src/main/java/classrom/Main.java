@@ -1,3 +1,5 @@
+package classrom;
+
 public class Main {
     public static void main(String[] args) {
         int vecumsSuns = 3;
