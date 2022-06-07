@@ -1,7 +1,6 @@
-package ClassromThree;
+package classroomThree;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Masivi {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ClassromThree;
+package classroomThree;
 
 import java.util.Scanner;
 
